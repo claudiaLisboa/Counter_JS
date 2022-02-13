@@ -1,5 +1,10 @@
 # Counter_JS
-Manipulate the DOM by building a simple JavaScript Counter
+#Manipulate the DOM by building a simple JavaScript Counter
+
+#JavaScript - working with the DOM
+
+#For studding proposes 
+
 
 <img width="1516" alt="Screen Shot 2022-02-12 at 10 49 26 PM" src="https://user-images.githubusercontent.com/21189063/153737821-1778a9c2-e466-41cd-8f25-9954f9f0ce46.png">
 
